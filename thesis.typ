@@ -15,8 +15,7 @@
 #import "nju-thesis/template.typ": documentclass, tablex, fig, tlt, indent
 
 // 双面模式，会加入空白页，便于打印
-#let twoside = false
-// #let twoside = true
+#let twoside = true
 
 #let (
   doc, preface, mainmatter, mainmatter-end, appendix,
@@ -26,8 +25,8 @@
   // degree: "academic",  // "academic" | "professional", 学位类型，默认为学术型 academic
   // anonymous: true,  // 盲审模式
   twoside: twoside,  // 双面模式，会加入空白页，便于打印
-  // 可自定义字体，先英文字体后中文字体，应传入「宋体」、「黑体」、「楷体」、「仿宋」、「等宽」
   // fonts: (楷体: ("Times New Roman", "FZKai-Z03S")),
+  // 可自定义字体，先英文字体后中文字体，应传入「宋体」、「黑体」、「楷体」、「仿宋」、「等宽」
   info: (
     title: ("基于 Typst 的", "南京大学学位论文"),
     title-en: "My Title in English",
