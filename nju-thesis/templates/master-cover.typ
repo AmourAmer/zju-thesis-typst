@@ -154,9 +154,9 @@
   } else {
     // 封面图标
     v(6pt)
-    image("../assets/vi/nju-emblem.svg", width: 1.42cm)
+    image("../assets/vi/u-emblem.svg", width: 1.42cm)
     // 调整一下左边的间距
-    pad(image("../assets/vi/nju-name.svg", width: 4cm))
+    pad(image("../assets/vi/u-name.svg", width: 4cm))
     v(34pt)
   }
 
@@ -286,7 +286,7 @@
   v(46pt)
 
   if not anonymous {
-    image("../assets/vi/nju-emblem.svg", width: 2.14cm)
+    image("../assets/vi/u-emblem.svg", width: 2.14cm)
   }
 
   v(28pt)

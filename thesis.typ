@@ -136,7 +136,7 @@
 ]))
 
 #fig(
-  image("nju-thesis/assets/vi/nju-emblem.svg", width: 20%),
+  image("nju-thesis/assets/vi/u-emblem.svg", width: 20%),
   caption: [图片测试],
 ) <nju-logo>
 
@@ -215,6 +215,6 @@ def add(x, y):
 附录内容，这里也可以加入图片，例如@fig:appendix-img。
 
 #fig(
-  image("nju-thesis/assets/vi/nju-emblem.svg", width: 20%),
+  image("nju-thesis/assets/vi/u-emblem.svg", width: 20%),
   caption: [图片测试],
 ) <appendix-img>
