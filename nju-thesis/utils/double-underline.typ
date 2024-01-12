@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 // 双下划线
 #let double-underline(body) = style(styles => {
   let size = measure(body, styles)

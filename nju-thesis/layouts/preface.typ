@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/anti-matter:0.0.2": anti-matter
 
 // 前言，重置页面计数器

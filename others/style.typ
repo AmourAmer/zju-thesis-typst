@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #let 字号 = (
   初号: 42pt,
   小初: 36pt,

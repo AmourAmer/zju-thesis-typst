@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/tablex:0.0.6": *
 #import "style.typ": 字体, 字号
 

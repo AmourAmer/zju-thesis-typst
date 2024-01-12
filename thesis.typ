@@ -1,3 +1,17 @@
+// 
+// MIT License
+// Copyright (c) 2024 AmourAmer
+// 
+// Substitute nju*.svg with u-*.svg
+// 
+// Original file: .
+// 
+
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "nju-thesis/template.typ": documentclass, tablex, fig, tlt, indent
 
 // 双面模式，会加入空白页，便于打印

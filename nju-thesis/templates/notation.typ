@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/t4t:0.3.2": is
 
 #let notation(

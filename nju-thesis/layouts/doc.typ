@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/t4t:0.3.2": is
 
 // 文稿设置，可以进行一些像页面边距这类的全局设置

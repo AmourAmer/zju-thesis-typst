@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 // 致谢页
 #let acknowledgement(
   // documentclass 传入参数

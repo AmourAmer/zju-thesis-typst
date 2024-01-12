@@ -1,3 +1,17 @@
+// 
+// MIT License
+// Copyright (c) 2024 AmourAmer
+// 
+// Substitute nju*.svg with u-*.svg
+// 
+// Original file: .
+// 
+
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/t4t:0.3.2": is
 #import "../utils/datetime-display.typ": datetime-display, datetime-en-display
 #import "../utils/justify-text.typ": justify-text

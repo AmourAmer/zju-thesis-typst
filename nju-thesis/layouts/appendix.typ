@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/i-figured:0.2.2"
 #import "../utils/custom-numbering.typ": custom-numbering
 

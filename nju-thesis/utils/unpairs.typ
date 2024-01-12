@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 // 将 pairs 数组转成 dict 字典
 #let unpairs(pairs) = {
   let dict = (:)

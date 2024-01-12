@@ -1,6 +1,12 @@
-#!/bin/bash 
+#
+# MIT License
+# Copyright (c) 2024 AmourAmer
+# 
 # Replace NJU specified items with yours 
 # usage: ./migrate.sh School's_chinese_name shortname_in_lower_caes shortname_in_upper_caes
+#
+
+#!/bin/bash 
 
 replace() {
   find * -name "*.typ" -exec sed 's/'"$1"'/'"$2"'/' -i {} \;
@@ -18,6 +24,7 @@ U=${3:-ZJ}
 replace 南京 $NAME
 replace nj $L
 replace NJ $U
+mv ./nju-thesis ${L}u-thesis
 
 # And there's someting you need to do manually:
 # Replace the ADDRESS

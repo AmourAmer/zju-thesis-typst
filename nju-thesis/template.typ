@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 // 南京大学学位论文模板 nju-thesis-typst
 // Author: https://github.com/OrangeX4
 // Repo: https://github.com/nju-lug/nju-thesis-typst

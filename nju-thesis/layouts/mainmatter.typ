@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "@preview/anti-matter:0.0.2": anti-front-end
 #import "@preview/i-figured:0.2.2"
 #import "../utils/style.typ": 字号, 字体

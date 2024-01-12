@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #let prefix = "metavalue:"
 
 // 设置一个类似全局变量的 metavalue

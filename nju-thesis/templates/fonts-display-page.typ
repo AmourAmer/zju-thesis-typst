@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 #import "../utils/style.typ": 字号, 字体
 #import "../utils/hline.typ": hline
 

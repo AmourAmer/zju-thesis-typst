@@ -1,3 +1,8 @@
+//
+// MIT License
+// Copyright (c) 2023 OrangeX4
+//
+
 // 展示一个标题
 #let heading-display(it) = {
   if it != none {
